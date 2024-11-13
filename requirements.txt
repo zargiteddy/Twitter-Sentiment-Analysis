@@ -1,2 +1,7 @@
 streamlit
 googletrans
+matplotlib
+openpyxl
+sklearn
+pandas
+numpy
