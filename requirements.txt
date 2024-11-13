@@ -2,6 +2,6 @@ streamlit
 googletrans
 matplotlib
 openpyxl
-sklearn
+scikit-learn
 pandas
 numpy
