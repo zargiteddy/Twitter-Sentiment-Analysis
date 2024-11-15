@@ -16,7 +16,7 @@ Web App tersebut belum 100% dapat mengklasifikasi sentiment ke kelas yang benar,
 **Alasan kenapa banyak data yang terklasifikasi ke dalam kelas positif adalah kemungkinan karena terlalu banyaknya data bersentimen positif yang kemungkinan dikarenakan oleh:**
 - entah karena memang dari sananya banyak data bersentimen positif, atau..
 - karena TextBlob tidak mampu menentukan polaritas yang tepat, atau..
-- karena SVM tidak mampu memprediksi kelas dengan benar (Linear Support Vector Machine sebesar 87,375% dengan nilai presisi 82% untuk sentimen negatif, 40% untuk sentimen netral, dan 91% untuk sentimen positif. Selain itu juga dihasilkan nilai recall 64% untuk sentimen negatif, 44% untuk sentimen netral, dan 95% untuk sentimen positif. Terakhir, f1-score untuk sentimen negatif adalah 72%, lalu 42% untuk sentimen netral, kemudian 93% untuk sentimen positif), atau..
+- karena SVM tidak mampu memprediksi kelas dengan benar (Linear Support Vector Machine di penelitian ini  memiliki akurasi sebesar 87,375% dengan nilai presisi 82% untuk sentimen negatif, 40% untuk sentimen netral, dan 91% untuk sentimen positif. Selain itu juga dihasilkan nilai recall 64% untuk sentimen negatif, 44% untuk sentimen netral, dan 95% untuk sentimen positif. Terakhir, f1-score untuk sentimen negatif adalah 72%, lalu 42% untuk sentimen netral, kemudian 93% untuk sentimen positif), atau..
 - karena ketiganya.
 
 **Bagi yang ingin melanjutkan atau memodifikasi penelitian ini, diharapkan dapat melakukan:**
