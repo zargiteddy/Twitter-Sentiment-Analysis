@@ -18,7 +18,7 @@ Web App tersebut belum 100% dapat mengklasifikasi sentiment ke kelas yang benar,
 - library googletrans tidak mampu menerjemahkan tweet dengan baik, atau..
 - karena TextBlob tidak mampu menentukan polaritas yang tepat, atau..
 - karena SVM tidak mampu memprediksi kelas dengan benar (Linear Support Vector Machine di penelitian ini  memiliki akurasi sebesar 87,375% dengan nilai presisi 82% untuk sentimen negatif, 40% untuk sentimen netral, dan 91% untuk sentimen positif. Selain itu juga dihasilkan nilai recall 64% untuk sentimen negatif, 44% untuk sentimen netral, dan 95% untuk sentimen positif. Terakhir, f1-score untuk sentimen negatif adalah 72%, lalu 42% untuk sentimen netral, kemudian 93% untuk sentimen positif), atau..
-- karena ketiganya.
+- karena keempatnya.
 
 **Bagi yang ingin melanjutkan atau memodifikasi penelitian ini, diharapkan dapat melakukan:**
 - mengambil data tweet yang bervariatif dan lebih banyak (sekitar 10.000 data) dan menggunakan metode selain SVM
