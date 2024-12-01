@@ -2,7 +2,7 @@
 
 **Sentiment Analyzer Web App**: https://svm-sentiment-analyzer.streamlit.app/
 
-**Artikel di Medium**: [still on progress]
+**Artikel di Medium**: https://medium.com/@zargi.teddy7/analisis-sentimen-twitter-terhadap-pernikahan-di-usia-muda-menggunakan-metode-support-vector-93777b9de16b
 
 ### Penjelasan: 
 Web App tersebut belum 100% dapat mengklasifikasi sentiment ke kelas yang benar, kemungkinan dikarenakan penelitian ini memiliki 4000 data yang jumlah negatif, positif, dan netral tidak imbang. Saya tidak sempat mengambil kumpulan data lain yang lebih bervariatif, dikarenakan di tengah penelitian terjadi pemberhentian layanan API Twitter gratis. Selain itu, tool - tool scraper yang ada di internet (seperti snscrape) sudah tidak dapat berfungsi lagi karena terkena block dari pihak Twitter, seperti pada kasus berikut: https://github.com/JustAnotherArchivist/snscrape/issues/996.
